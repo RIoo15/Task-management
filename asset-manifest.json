@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Task-management/static/css/main.62d818c2.css",
+    "main.js": "/Task-management/static/js/main.def0a140.js",
+    "static/js/787.2a7f15e5.chunk.js": "/Task-management/static/js/787.2a7f15e5.chunk.js",
+    "static/media/Mac-malware-can-easily-bypass-Apples-Background-Task-Manager (1).webp": "/Task-management/static/media/Mac-malware-can-easily-bypass-Apples-Background-Task-Manager (1).4752822e8b7a705324ad.webp",
+    "index.html": "/Task-management/index.html",
+    "main.62d818c2.css.map": "/Task-management/static/css/main.62d818c2.css.map",
+    "main.def0a140.js.map": "/Task-management/static/js/main.def0a140.js.map",
+    "787.2a7f15e5.chunk.js.map": "/Task-management/static/js/787.2a7f15e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62d818c2.css",
+    "static/js/main.def0a140.js"
+  ]
+}
